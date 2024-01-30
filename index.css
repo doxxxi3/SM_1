@@ -1,0 +1,16 @@
+body {
+    background-color: blue;
+}
+
+.title{
+    color: white;
+}
+
+.button{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-color: yellow;
+
+}
