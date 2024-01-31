@@ -1,3 +1,14 @@
+.blue, .red{
+    color: blue; 
+    font-size: 40px;
+}
+.blue:hover {
+    color: white;
+}
+
+.red:hover {
+    color: red;
+}
 body {
     background-color: blue;
 }
